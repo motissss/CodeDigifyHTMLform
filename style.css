@@ -1,6 +1,6 @@
 body {
     font-family: Arial;
-    color:lightsteelblue;
+    background-color:lightsteelblue;
 }
 
 form {
@@ -17,4 +17,7 @@ input, textarea {
 
 button {
     padding: 7px 15px;
+}
+h1 {
+    text-align: center;
 }
